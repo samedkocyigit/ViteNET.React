@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ViteNET.React.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ViteNET.React.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\.gitignore",
+      "PackagePath": "staticwebassets\\client-app\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\README.md",
+      "PackagePath": "staticwebassets\\client-app\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\dist\\assets\\fontawesome-webfont-B-jkhYfk.woff2",
+      "PackagePath": "staticwebassets\\client-app\\dist\\assets\\fontawesome-webfont-B-jkhYfk.woff2"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\dist\\assets\\fontawesome-webfont-CDK5bt4p.woff",
+      "PackagePath": "staticwebassets\\client-app\\dist\\assets\\fontawesome-webfont-CDK5bt4p.woff"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\dist\\assets\\fontawesome-webfont-CQDK8MU3.ttf",
+      "PackagePath": "staticwebassets\\client-app\\dist\\assets\\fontawesome-webfont-CQDK8MU3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\dist\\assets\\fontawesome-webfont-D13rzr4g.svg",
+      "PackagePath": "staticwebassets\\client-app\\dist\\assets\\fontawesome-webfont-D13rzr4g.svg"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\dist\\assets\\fontawesome-webfont-G5YE5S7X.eot",
+      "PackagePath": "staticwebassets\\client-app\\dist\\assets\\fontawesome-webfont-G5YE5S7X.eot"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\dist\\assets\\index-Cz2UkIp8.css",
+      "PackagePath": "staticwebassets\\client-app\\dist\\assets\\index-Cz2UkIp8.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\dist\\assets\\index-DMaQvs8L.js",
+      "PackagePath": "staticwebassets\\client-app\\dist\\assets\\index-DMaQvs8L.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\dist\\index.html",
+      "PackagePath": "staticwebassets\\client-app\\dist\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\dist\\vite.svg",
+      "PackagePath": "staticwebassets\\client-app\\dist\\vite.svg"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\eslint.config.js",
+      "PackagePath": "staticwebassets\\client-app\\eslint.config.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\index.html",
+      "PackagePath": "staticwebassets\\client-app\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\package-lock.json",
+      "PackagePath": "staticwebassets\\client-app\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\package.json",
+      "PackagePath": "staticwebassets\\client-app\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\public\\vite.svg",
+      "PackagePath": "staticwebassets\\client-app\\public\\vite.svg"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\App.css",
+      "PackagePath": "staticwebassets\\client-app\\src\\App.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\App.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\App.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\assets\\react.svg",
+      "PackagePath": "staticwebassets\\client-app\\src\\assets\\react.svg"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\components\\Auth\\Login.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\components\\Auth\\Login.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\components\\Auth\\Register.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\components\\Auth\\Register.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\components\\Todo\\CreateTask.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\components\\Todo\\CreateTask.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\components\\Todo\\Modal.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\components\\Todo\\Modal.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\components\\Todo\\TaskCard.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\components\\Todo\\TaskCard.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\components\\Todo\\TaskDetailModal.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\components\\Todo\\TaskDetailModal.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\index.css",
+      "PackagePath": "staticwebassets\\client-app\\src\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\main.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\main.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\pages\\Home.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\pages\\Home.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\routes.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\routes.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\services\\authService.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\services\\authService.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\services\\taskService.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\services\\taskService.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\services\\userService.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\services\\userService.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\store\\UserContext.jsx",
+      "PackagePath": "staticwebassets\\client-app\\src\\store\\UserContext.jsx"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\styles\\css\\CreateTask.css",
+      "PackagePath": "staticwebassets\\client-app\\src\\styles\\css\\CreateTask.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\styles\\css\\Home.css",
+      "PackagePath": "staticwebassets\\client-app\\src\\styles\\css\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\styles\\css\\Login.css",
+      "PackagePath": "staticwebassets\\client-app\\src\\styles\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\styles\\css\\Modal.css",
+      "PackagePath": "staticwebassets\\client-app\\src\\styles\\css\\Modal.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\styles\\css\\Register.css",
+      "PackagePath": "staticwebassets\\client-app\\src\\styles\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\src\\styles\\css\\TaskDetail.css",
+      "PackagePath": "staticwebassets\\client-app\\src\\styles\\css\\TaskDetail.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\client-app\\vite.config.js",
+      "PackagePath": "staticwebassets\\client-app\\vite.config.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\wwwroot\\assets\\fontawesome-webfont-B-jkhYfk.woff2",
+      "PackagePath": "staticwebassets\\wwwroot\\assets\\fontawesome-webfont-B-jkhYfk.woff2"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\wwwroot\\assets\\fontawesome-webfont-CDK5bt4p.woff",
+      "PackagePath": "staticwebassets\\wwwroot\\assets\\fontawesome-webfont-CDK5bt4p.woff"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\wwwroot\\assets\\fontawesome-webfont-CQDK8MU3.ttf",
+      "PackagePath": "staticwebassets\\wwwroot\\assets\\fontawesome-webfont-CQDK8MU3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\wwwroot\\assets\\fontawesome-webfont-D13rzr4g.svg",
+      "PackagePath": "staticwebassets\\wwwroot\\assets\\fontawesome-webfont-D13rzr4g.svg"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\wwwroot\\assets\\fontawesome-webfont-G5YE5S7X.eot",
+      "PackagePath": "staticwebassets\\wwwroot\\assets\\fontawesome-webfont-G5YE5S7X.eot"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\wwwroot\\assets\\index-Cz2UkIp8.css",
+      "PackagePath": "staticwebassets\\wwwroot\\assets\\index-Cz2UkIp8.css"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\wwwroot\\assets\\index-DMaQvs8L.js",
+      "PackagePath": "staticwebassets\\wwwroot\\assets\\index-DMaQvs8L.js"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\wwwroot\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\samed\\Desktop\\sam\\ViteNET.React\\wwwroot\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\wwwroot\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ViteNET.React.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ViteNET.React.props",
+      "PackagePath": "build\\ViteNET.React.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ViteNET.React.props",
+      "PackagePath": "buildMultiTargeting\\ViteNET.React.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ViteNET.React.props",
+      "PackagePath": "buildTransitive\\ViteNET.React.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
